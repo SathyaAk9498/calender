@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+.calender{
+    margin-top: 110px;
+    margin-left: 40px;
+    max-width: 800px;
+    font-family:serif;
+    font-weight:bold;
+    color:blue;
+}
+.month {
+    text-align: center;
+    background: rgb(243, 247, 243);
+    font: size 150px;
+    letter-spacing: 1px;
+    color:rgb(75, 238, 43);
+    border: 2px solid blue;
+    }
+.month h1{
+    background-color: #0707f3;
+}    
+table,th,td{
+    width: 100%;
+    table-layout:fixed;
+    text-align:center;
+    font-size:27px;
+    border:5px solid #1b25ad;
+    font-family: elaphant;
+    background-color: #020c00;
+    color: bisque;
+}
+
+h1{
+    font-size: 29px;
+    font-family: initial;
+    text-align: center;
+}
+body{
+    background:url(images/WhatsApp\ Image\ 2023-06-16\ at\ 3.25.50\ PM.jpeg);
+    height: 55rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+marquee
+{
+    width: 100%;
+}
+p{
+    color: #0a0909;
+    position: relative;
+    height: 150px;
+    width: 30%;
+    left: 5%;
+    background: #fb09d7;
+}
+.link{
+    color: #700aee;
+    position: relative;
+    height:150px;
+    width:30%;
+    left: 60%;
+    bottom: 150px;
+    background: #eeeee5;
+    bold{
+        color:#700aee;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+p .sathya{
+    color: #eeeee5;
+}
+
+
+
+
+   
